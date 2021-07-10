@@ -37,6 +37,8 @@
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaund16&layout=compact&theme=merko) 
 
+<img src="https://img.shields.io/github/followers/shaund16?style=social" />
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shaund16)
      
 [github]: https://github.com/shaund16
