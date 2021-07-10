@@ -1,6 +1,8 @@
-<h1>Hi, I'm Shaun Purslow 👋</h1>
+<div>
 <img src="profile.png" alt"Profile Pic" />
+</div>
 
+<h1> Hi, I'm Shaun 👋</h1>
 <h4>⚡ A passionate Full-Stack Developer ⚡</h4>
 
 
