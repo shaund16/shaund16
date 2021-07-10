@@ -1,5 +1,5 @@
 <div>
-<img src="profile.png" alt"Profile Pic" />
+<img src="profile-pic.png" alt"Profile Pic" />
 </div>
 
 <h1> Hi, I'm Shaun 👋</h1>
