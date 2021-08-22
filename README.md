@@ -38,7 +38,7 @@
 
 <h2>📊 Github Stats:</h2>
 
-![Shauns GitHub stats](https://github-readme-stats.vercel.app/api?username=shaund16&?count_private=true&show_icons=true&theme=merko)
+![Shauns GitHub stats](https://github-readme-stats.vercel.app/api?username=shaund16&count_private=true&show_icons=true&theme=merko)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaund16&layout=compact&theme=merko) 
 
