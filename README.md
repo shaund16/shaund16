@@ -7,7 +7,7 @@
 <br/>
 <h3>Welcome to my ✨ repository. ✨ </h3>
 
-🧑‍🎓 I'm a recent graduate of [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca) <br/>
+🧑‍🎓 I'm a graduate of [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca) <br/>
 
 🌱 I'm currently learning and building my skills <br />
 
