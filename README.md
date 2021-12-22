@@ -20,7 +20,7 @@
 
    <p>  I am proficient with modern web development languages such as HTML, CSS, JavaScript/ES6 and front-end frameworks such as React. On the back-end, I am familiar with technologies like Node.js and Express and databases such as MySQL, Postgres, and MongoDB.
 </p>
-
+Soli Deo Gloria
 <hr>
 
 <h2>Connect with me:</h2>
