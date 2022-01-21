@@ -11,8 +11,6 @@
 
 🌱 I'm currently learning and building my skills <br />
 
-💬 Ask me about <strong>Web Development</strong><br />
-
 📫 How to reach me: [Email](mailto:shaundpurslow@gmail.com)
 
 <br/>
