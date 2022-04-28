@@ -7,26 +7,27 @@
 <br/>
 <h3>Welcome to my ✨ repository. ✨ </h3>
 
+
 🧑‍🎓 I'm a graduate of [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca) <br/>
 
-🌱 I'm currently learning and building my skills <br />
-
-📫 How to reach me: [Email](mailto:shaundpurslow@gmail.com)
-
 <br/>
-<p>I'm a former electrician turned Full-Stack Developer. Since 2020 I began developing a huge passion and interest in learning about Web Development. I have been diligently learning and growing in my skillset as a developer. The growing will never end and that’s the best part. I enjoy challenges, problem solving, and working both independently and with a team! When I’m not at my computer I spend all of my time with my family, reading and getting outdoors as much as possible and creating memories.</p>
+<p> Since 2020 I began developing a huge passion and interest in learning about Web Development. I have been diligently learning and growing in my skillset as a developer. I enjoy challenges, problem solving, and working both independently and with a team! When I’m not at my computer I spend all of my time with my family, reading and getting outdoors as much as possible and creating memories.</p>
 
-   <p>  I am proficient with modern web development languages such as HTML, CSS, JavaScript/ES6 and front-end frameworks such as React. On the back-end, I am familiar with technologies like Node.js and Express and databases such as MySQL, Postgres, and MongoDB.
-</p>
-Soli Deo Gloria
+<b>Soli Deo Gloria</b>
 <hr>
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br/>
+<hr>
+
+# 🌱 Learning Queue 
+
+`Svelte` `Vue` `Python` `Tailwind CSS` `Vuetify` `Flask` `AWS` `GraphQL` `Docker`
+
 <hr>
 
 <h2>Languages and Tools:</h2>        
