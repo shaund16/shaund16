@@ -22,7 +22,7 @@
 <table><tr><td valign="top" width="20%">
      
 ### Frontend  
-`HTML` `CSS/SASS` `React` `Redux` `Next` `Vue` `Vuetify` `Javascript` `Typescript` `jQuery` `AJAX` `Material UI` 
+`HTML` `CSS/SASS` `React` `Redux` `Next` `Vue` `Vuetify` `Vuex` `Javascript` `Typescript` `jQuery` `AJAX` `Material UI` 
 </td><td valign="top" width="20%">
 
 
