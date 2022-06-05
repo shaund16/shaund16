@@ -19,18 +19,18 @@
 
 ## Technical Skills  
 <br/>
-<table><tr><td valign="top" width="20%">
-     
+<table><tr><td valign="top" width="20%" align="center">
+ 
 ### Frontend  
 `HTML` `CSS/SASS` `React` `Redux` `Next` `Vue` `Vuetify` `Vuex` `Javascript` `Typescript` `jQuery` `AJAX` `Material UI` 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="20%" align="center">
 
 
 
 ### Backend 
 `Node` `Express` `Ruby` `Python` `Flask`
      
-</td><td valign="top" width="20%">
+</td><td valign="top" width="20%" align="center">
 
 
 
@@ -39,12 +39,12 @@
      
 
 
-</td><td valign="top" width="20%"> 
+</td><td valign="top" width="20%" align="center"> 
 
 ### Testing
 `Mocha & Chai` `Jest` `Cypress`
      
-  </td><td valign="top" width="20%">
+  </td><td valign="top" width="20%" align="center">
      
 ### DevOPs     
 `Docker` `Git/Github`
@@ -53,9 +53,7 @@
 <hr>
 
 ## 🌱 Learning Queue 
-
 `Svelte` `Tailwind CSS` `AWS` `GraphQL`
-
 <hr>
 
 
