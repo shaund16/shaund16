@@ -3,7 +3,7 @@
 </div>
 
 <h1> Hi, I'm Shaun 👋</h1> 
-<h4>⚡ A passionate Full-Stack Developer ⚡</h4>
+<img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+|+Backend+|+Database;⚡+A+Passionate+Fullstack+Developer;Always+Learning;Growth-Mindset;" alt="Frontend, Backend Developer, Fullstack" title="Frontend, Backend, Fullstack">
 <br/>
 <h3>Welcome to my ✨ repository. ✨ </h3>
 
