@@ -76,7 +76,9 @@ _____________________________________________________________________________-->
 <hr>
 
 
-## Connect with me  
+## Connect with me 
+  [Link 🌲](https://linktr.ee/shaunpurslow)
+
 <div>
 <a href="https://github.com/shaund16" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -85,7 +87,7 @@ _____________________________________________________________________________-->
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
- 
+
 
 <hr>
 <br/>
@@ -101,4 +103,6 @@ _____________________________________________________________________________-->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shaund16)
      
 [github]: https://github.com/shaund16
-[linkedin]: https://www.linkedin.com/in/shaun-purslow/     
+[linkedin]: https://www.linkedin.com/in/shaun-purslow/   
+
+
