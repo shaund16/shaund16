@@ -77,9 +77,10 @@ _____________________________________________________________________________-->
 
 
 ## Connect with me 
-  [Link 🌲](https://linktr.ee/shaunpurslow)
-
 <div>
+  <a href="https://linktr.ee/shaunpurslow" target="blank"><img align="center" src="https://www.computerhope.com/jargon/l/linktree.png" alt="shaunpurslow-dev" height="30" width="40" /></a>
+  <br/>
+  <br/>
 <a href="https://github.com/shaund16" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
