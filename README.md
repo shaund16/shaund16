@@ -11,7 +11,7 @@
 🧑‍🎓 I'm a graduate of [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca) <br/>
 
 <br/>
-<p> Since 2020 I began developing a huge passion and interest in learning about Web Development. I have been diligently learning and growing in my skillset as a developer. I enjoy challenges, problem solving, and working both independently and with a team! When I’m not at my computer I spend all of my time with my family, reading and getting outdoors as much as possible and creating memories.</p>
+<p>Couple years ago I began developing a huge passion and interest in learning about Web Development. I have been diligently learning and growing in my skillset as a developer. I enjoy challenges, problem solving, and working both independently and with a team! When I’m not at my computer I spend all of my time with my family, reading and getting outdoors as much as possible and creating memories.</p>
 
 <b>Soli Deo Gloria</b> 
 
