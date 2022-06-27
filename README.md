@@ -94,16 +94,23 @@ _____________________________________________________________________________-->
 <br/>
 
 <h2>📊 Github Stats:</h2>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=shaund16&count_private=true&include_all_commits=true&show_icons=true&theme=merko" target="_blank">
+      <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaund16&count_private=true&include_all_commits=true&show_icons=true&theme=merko">
+      <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+  </a>
+</p>
 
-![Shauns GitHub stats](https://github-readme-stats.vercel.app/api?username=shaund16&count_private=true&include_all_commits=true&show_icons=true&theme=merko)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaund16&layout=compact&theme=merko) 
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shaund16&layout=compact&theme=merko" target="_blank">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaund16&layout=compact&theme=merko">
+  </a>
+</p>
 
-<img src="https://img.shields.io/github/followers/shaund16?style=social" />
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=shaund16)
-     
-[github]: https://github.com/shaund16
-[linkedin]: https://www.linkedin.com/in/shaun-purslow/   
-
-
+<div align="center">
+ <br />
+  <img src="https://img.shields.io/github/followers/shaund16?style=social" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=shaund16" />
+</div>
