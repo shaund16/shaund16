@@ -23,7 +23,7 @@ export default () => ({
   ],
   Experience: [
     "Full Stack Developer at H2 Analytics",
-    "Mentor | TechInterviewer at Lighthouse Labs",
+    "Mentor & Tech Interviewer at Lighthouse Labs",
     "Full Stack Developer at MIDO"
   ],
    Skills: [
