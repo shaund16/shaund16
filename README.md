@@ -13,17 +13,30 @@
 <a href="https://www.linkedin.com/in/shaun-purslow/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<br />
-<hr>
-<img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+|+Backend+|+Database;⚡+A+Passionate+Fullstack+Developer;Always+Learning;Growth-Mindset;" alt="Frontend, Backend Developer, Fullstack" title="Frontend, Backend, Fullstack">
-<br/>
+<hr/>
 
-
-🧑‍🎓 I'm a graduate of [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca) <br/>
-
-<br/>
-<p>Couple years ago I began developing a huge passion and interest in learning about Web Development. I have been diligently learning and growing in my skillset as a developer. I enjoy challenges, problem solving, and working both independently and with a team! When I’m not at my computer I spend all of my time with my family, reading and getting outdoors as much as possible and creating memories.</p>
-
+```js
+export default () => ({
+  askMeAbout: [
+    "webDevelopment", "technology", "data", "programming", "webDesign", 
+    "buildingWebsites", "logoDesigns", "mentoring", "Freelancing"
+  ],
+  Experience: [
+    "Full Stack Developer at H2 Analytics",
+    "Mentor | TechInterviewer at Lighthouse Labs",
+    "Full Stack Developer at MIDO"
+  ],
+   Skills: [
+    "Leadership", "Team Work", "Decision Making",
+    "Problem Solving", "Time Management", "Rapid Learner", 
+    "Organization", "Ownership", "Work Ethic", "Creativity" 
+  ],
+   Interest: [
+    "Technology", "Reading", "Working Out", "Family", 
+    "Programming", "Learning", "Adventures"
+  ]
+});
+```
 <b>Soli Deo Gloria</b> 
 
 
@@ -49,7 +62,7 @@ _____________________________________________________________________________-->
                                                                                                                                                                                                                                                                            
 
 
-## Technical Skills  
+## 💻 Technical Skills  
 <br/>
 <table><tr><td valign="top" width="20%" align="center">
  
