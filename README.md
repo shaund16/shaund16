@@ -2,10 +2,21 @@
 <img src="profile-pic.png" alt"Profile Pic" />
 </div>
 
-<h1> Hi, I'm Shaun 👋</h1> 
+<h1> Hi, I'm Shaun 👋</h1>
+<h3>Welcome to my ✨ repository. ✨ </h3>
+<a href="https://linktr.ee/shaunpurslow" target="blank"><img align="center" src="https://www.computerhope.com/jargon/l/linktree.png" alt="shaunpurslow-dev" height="30" width="40" /></a>
+<br />
+<br />
+<a href="https://github.com/shaund16" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/shaun-purslow/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<br />
+<hr>
 <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+|+Backend+|+Database;⚡+A+Passionate+Fullstack+Developer;Always+Learning;Growth-Mindset;" alt="Frontend, Backend Developer, Fullstack" title="Frontend, Backend, Fullstack">
 <br/>
-<h3>Welcome to my ✨ repository. ✨ </h3>
 
 
 🧑‍🎓 I'm a graduate of [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca) <br/>
@@ -14,6 +25,8 @@
 <p>Couple years ago I began developing a huge passion and interest in learning about Web Development. I have been diligently learning and growing in my skillset as a developer. I enjoy challenges, problem solving, and working both independently and with a team! When I’m not at my computer I spend all of my time with my family, reading and getting outdoors as much as possible and creating memories.</p>
 
 <b>Soli Deo Gloria</b> 
+
+
 
 <!--____________________________________________________________________________
 ________________________________________________________________________________
@@ -74,24 +87,8 @@ _____________________________________________________________________________-->
 ## 🌱 Learning Queue 
 `Svelte` `Tailwind CSS` `AWS` `GraphQL`
 <hr>
+<br />
 
-
-## Connect with me 
-<div>
-  <a href="https://linktr.ee/shaunpurslow" target="blank"><img align="center" src="https://www.computerhope.com/jargon/l/linktree.png" alt="shaunpurslow-dev" height="30" width="40" /></a>
-  <br/>
-  <br/>
-<a href="https://github.com/shaund16" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/shaun-purslow/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-
-
-<hr>
-<br/>
 
 <h2>📊 Github Stats:</h2>
 <p align="center">
